@@ -1,8 +1,8 @@
 # Java Memory Management
 
-<a href=""><img src="https://static.packt-cdn.com/products/9781801812856/cover/smaller" alt="" height="256px" align="right"></a>
+<a href="https://www.amazon.com/dp/1801812853"><img src="https://m.media-amazon.com/images/I/41V1LQBtRdL._SX403_BO1,204,203,200_.jpg" alt="" height="256px" align="right"></a>
 
-This is the code repository for [Java Memory Management](), published by Packt.
+This is the code repository for [Java Memory Management](https://www.amazon.com/dp/1801812853), published by Packt.
 
 **A comprehensive guide to garbage collection and JVM tuning**
 
