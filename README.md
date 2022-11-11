@@ -49,7 +49,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Learn Java 17 Programming - Second Edition [[Packt]](https://www.packtpub.com/product/learn-java-17-programming-second-edition/9781803241432?utm_source=github&utm_medium=repository&utm_campaign=9781803241432) [[Amazon]](https://www.amazon.com/dp/1803241438)
 
-## Get to Know the Author
+## Get to Know the Authors
 **Maaike van Putten**
 is an experienced software developer and trainer with a passion for software development and helping others to get to the next level in their career. Some of her favorite languages are Java, JavaScript, and Python. She participates as a developer in software development projects and teaches a lot of training courses, ranging from IT for beginners to advanced topics for senior software developers. She also loves to create online content to help a larger audience, and she does so for diverse platforms such as Pluralsight, LinkedIn Learning, and Udemy.
 
