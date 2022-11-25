@@ -55,3 +55,8 @@ is an experienced software developer and trainer with a passion for software dev
 
 **Seán Kennedy**
 is a university lecturer with over 20 years of experience in teaching. He has a PhD in IT and is Oracle-certified in Java at the Professional level (OCP). In his daily work, he teaches Java on a bespoke master’s program for a highly regarded software company. He has a YouTube channel called Let’s Get Certified that teaches Java at all levels and prepares candidates for Java certification. He also has similar courses on Udemy. Outside of work, he enjoys tennis, walking, nature, reading, and TV.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801812856">https://packt.link/free-ebook/9781801812856 </a> </p>
