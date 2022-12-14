@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781801812856)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Java Memory Management
 
 <a href="https://www.amazon.com/dp/1801812853"><img src="https://m.media-amazon.com/images/I/41V1LQBtRdL._SX403_BO1,204,203,200_.jpg" alt="" height="256px" align="right"></a>
