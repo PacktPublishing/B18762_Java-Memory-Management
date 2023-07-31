@@ -1,6 +1,3 @@
-
-
-
 # Java Memory Management
 
 <a href="https://www.amazon.com/dp/1801812853"><img src="https://m.media-amazon.com/images/I/41V1LQBtRdL._SX403_BO1,204,203,200_.jpg" alt="" height="256px" align="right"></a>
@@ -46,6 +43,10 @@ With the following software and hardware list you can run all code files present
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/OeQqF).
+
+## Errata:
+
+* Page 102: -XX:+G1GC _should be_ -XX:+UseG1GC
 
 ### Related products
 *  Domain-Driven Design with Java - A Practitioner’s Guide [[Packt]](https://www.packtpub.com/product/domain-driven-design-with-java-a-practitioners-guide/9781800560734?utm_source=github&utm_medium=repository&utm_campaign=9781800560734) [[Amazon]](https://www.amazon.com/dp/1800560737)
